@@ -10,7 +10,7 @@ package javaapplication2;
 
 /**
  */
-public class Deportista extends persona {
+public class Deportista extends Persona {
 
     private String nombre;
     private String apellido;
